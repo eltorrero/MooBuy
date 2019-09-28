@@ -17,7 +17,7 @@ f:SetScript("OnEvent", function(self, event, ...)
 		-- Superverkaufomat 680
 		--"Rezept: Drachenodemchili",
 		"Rezept: Scharfe Wolfrippchen",
-		"Rezept: Eigenartiger Eintopf",
+		--"Rezept: Eigenartiger Eintopf",
 		--"Rezept: Mageres Wolfsteak",
 		-- Diverse
 		"Aquadynamischer Fischanlocker"

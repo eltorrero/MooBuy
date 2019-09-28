@@ -1,7 +1,7 @@
 ## Interface: 11302
 ## Title: MooBuy
 ## Notes: Automate buying items.
-## Author: eltorrero
+## Author: eltorrero and Snarfi
 ## Version: 20190928
 
 MooBuy.lua
