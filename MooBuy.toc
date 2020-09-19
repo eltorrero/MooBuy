@@ -1,4 +1,4 @@
-## Interface: 11302
+## Interface: 11305
 ## Title: MooBuy
 ## Notes: Automate buying items.
 ## Author: eltorrero and Snarfi

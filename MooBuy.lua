@@ -19,6 +19,8 @@ f:SetScript("OnEvent", function(self, event, ...)
 		"Rezept: Scharfe Wolfrippchen",
 		--"Rezept: Eigenartiger Eintopf",
 		--"Rezept: Mageres Wolfsteak",
+		-- Antonio Perelli
+		"Schwerer Stachelkolben",
 		-- Diverse
 		"Aquadynamischer Fischanlocker"
 	}
